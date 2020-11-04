@@ -35,6 +35,6 @@ List
 实验3.2截图：![image](https://github.com/peach7k/test3/blob/main/Test_pic/%7D%5BA%5DKIKM)OI%24W)0RO%5DD%250DU.png)
 实验3.3截图: ![image](https://github.com/peach7k/test3/blob/main/Test_pic/%40%24L~%607U9_5E9UH%5DN4O4VBF8.png)
            设置字体大小：![image](https://github.com/peach7k/test3/blob/main/Test_pic/QGVWYJU%5DRC%7BV245YZ%2490A7F.png)
-           设置字体颜色：![image](https://github.com/peach7k/test3/blob/main/Test_pic/Q9V%60X5ROPCICWE1ZB%60(%7DJ%7BO.png)
+           设置字体颜色：![image](https://github.com/peach7k/test3/blob/main/Test_pic/Q9V%60X5ROPCICWE1ZB%60%7DJ%7BO.png)
            设置弹出普通选项Toast：![image](https://github.com/peach7k/test3/blob/main/Test_pic/3~KPH7Q2%25W2QEUVNG938IB3.png)
   实验3.4截图：![image](https://github.com/peach7k/test3/blob/main/Test_pic/9_NK1UJJA4K%258Z9%7DZ~_KOJN.png)
